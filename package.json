@@ -1,0 +1,24 @@
+{
+    "name": "desj-wintel-essential-extensions-pack",
+    "displayName": "Desj Wintel Essential Extensions pack",
+    "description": "Essential extensions for Devops work in Wintel",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "eamodio.gitlens",
+        "wwm.better-align",
+        "coenraads.bracket-pair-colorizer-2",
+        "mhutchie.git-graph",
+        "oderwat.indent-rainbow",
+        "tylerleonhardt.vscode-inline-values-powershell",
+        "ms-vscode.powershell",
+        "nhoizey.gremlins",
+        "louiswt.regexp-preview",
+        "usernamehw.errorlens"
+    ]
+}
